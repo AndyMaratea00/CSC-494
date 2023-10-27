@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "chai": "^4.3.10",
+    "compile": "^0.0.2",
+    "mocha": "^10.2.0",
+    "solc": "^0.8.17",
+    "web3": "^4.2.1"
+  }
+}
