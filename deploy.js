@@ -10,9 +10,9 @@ const { abi, bytecode } = require('./compile');
 );*/
 
 const provider = new HDWalletProvider(
-  'impose normal lake engage siege oppose upon fancy rich kite sting someone',
+  '*********************************************************',
   // remember to change this to your own phrase!
-  'https://goerli.infura.io/v3/95efe6c031084efbbd866925e5cab3c3'
+  '**********************************************************'
   // remember to change this to your own endpoint!
 );
 
